@@ -46,3 +46,32 @@ x=1
 while x<=n and 1<=n<=150:
     print(x,end='')
     x=x+1
+
+"""
+Code as fast as you can! You need to double the integer and return it.
+"""
+def double_integer(i):
+    i=i*2
+    return i
+"""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
